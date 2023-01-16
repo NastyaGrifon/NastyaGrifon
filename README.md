@@ -7,4 +7,5 @@ NastyaGrifon/NastyaGrifon is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![NastyaGrifon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NastyaGrifon&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![NastyaGrifon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NastyaGrifon&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
